@@ -1,0 +1,30 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <title>D.Langley Consultant</title>
+  <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+<body>
+    <header>
+<h2>DeWarren Langley<span id="roles">| Consultant</span> 
+<span id="image"><img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/000/2c2/188/0811b25.jpg"
+ alt="Profile Picture"></span></h2>
+    </header>
+<div id="services"><p> I have X years of experience volunteering to perform mock interviews and review resumes with x population. 
+Many of my friends and family request my consultation when they have an upcoming interview or are looking to change careers.
+In this economy, it is more important than ever to be prepared in order to land the job of your dreams. I would love to help you 
+achieve the career you desire.  My fees are extremely modest because I do not want to add any more stress that comes with 
+changing careers or landing that first job. Please contact me at dewarrenklangley@gmail.com with any questions or for more information. </p>
+<h4>Services Provided:</h4>
+<ul>
+  <li>Resume Review</li>
+  <li>Mock Interview</li>
+  </ul>
+</div>
+
+<div id="contact"> 
+<a href="http://www.linkedin.com/in/dewarrenklangley"><img src="linkedin.jpg" alt="linkedin" /> </a>
+<a href="http://twitter.com/dklangley"><img src="twitter.png" alt="twitter" /></a> 
+</div>
+</body>
+</html> 
